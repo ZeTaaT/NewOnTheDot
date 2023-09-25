@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NewsOnTheDot</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="register_while_logged_in">Please logout before trying to register!</string>
+    <string name="logout_while_logged_out">Please login before trying to logout!</string>
+    <string name="register_failure">Failed to register</string>
+    <string name="not_logged_in">Not Logged In</string>
+    <string name="logged_in">Logged In</string>
+    <string name="action_prompt">Sign in or Register</string>
+    <string name="logged_out">Log Out</string>
+    <string name="login_failure">Failed to login</string>
+    <string name="login_success">Logged in as %1$s</string>
+    <string name="greeting_message">%1$s %2$s</string>
+    <string name="refresh_xml">Refresh</string>
+    <string name="profile_xml">Profile Page</string>
+    <string name="linked">Linked Accounts</string>
+    <string name="settings_xml">Settings</string>
+    <string name="log_xml">Logout</string>
+    <string name="title_activity_child">Child</string>
+    <string name="get_api_data">NewsOnTheDot</string>
+    <string name="loading">NewsOnTheDot…</string>
+    <string name="urlImage">urlImage</string>
+    <string name="search">Search</string>
+    <string name="read_later">Read Later</string>
+    <string-array name="tabTitles">
+        <item>Trend News</item>
+        <item>Later News</item>
+        <item>Prefer News</item>
+    </string-array>
+</resources>
